@@ -1,0 +1,310 @@
+I want you to completely redesign and update this existing website into a professional academic journal publication portal.
+
+IMPORTANT:
+This website is NOT a journal submission system.
+It is NOT an OJS-style peer review system.
+It is ONLY a public website for displaying already-published journal issues and articles.
+
+JOURNAL INFORMATION:
+
+Journal name:
+Jurnal Kesehatan Tambusai
+
+Publisher/institution:
+Lembaga Penelitian dan Pengabdian Masyarakat
+Universitas Pahlawan Tuanku Tambusai
+
+Current issue:
+Volume 7, Number 3
+October 2026
+
+I will upload the official journal logo and the official published journal PDF/files in this Replit project. Use those uploaded files as the primary source for the journal branding and article information.
+
+IMPORTANT CONTENT RULE:
+Do NOT invent article titles, authors, abstracts, DOI numbers, page numbers, or other bibliographic information.
+Read the uploaded official journal files and use the actual information from them.
+If some information cannot be found in the uploaded files, leave it blank or clearly mark it as unavailable rather than making it up.
+
+WEBSITE GOAL:
+
+Create a clean, professional, trustworthy academic journal website that looks like a real Indonesian scientific journal publication portal.
+
+The website should allow visitors to:
+
+1. View the journal homepage.
+2. See the current issue: Volume 7, Number 3, October 2026.
+3. Browse all articles in the current issue.
+4. Click an article to open its article detail page.
+5. Read the article title, authors, abstract, keywords, publication information, and other available metadata.
+6. View or download the official PDF of each article.
+7. Browse previous journal issues through an Archives page.
+8. Search articles by title, author, or keyword.
+9. Access the journal information and publisher information.
+
+DESIGN:
+
+Replace the current fictional "The Meridian Review" design completely.
+
+Use a professional academic journal aesthetic suitable for:
+"Jurnal Kesehatan Tambusai".
+
+The design should feel:
+- professional
+- clean
+- credible
+- modern
+- academic
+- medical/health-science oriented
+- easy to read
+- not like a magazine
+- not overly decorative
+
+Use a clean white background with an elegant academic color palette inspired by the official journal logo once I upload it.
+
+Make the website fully responsive for:
+- iPad
+- mobile phones
+- desktop computers
+
+HEADER:
+
+Create a professional header containing:
+
+[OFFICIAL JOURNAL LOGO]
+
+JURNAL KESEHATAN TAMBUSAI
+
+Lembaga Penelitian dan Pengabdian Masyarakat
+Universitas Pahlawan Tuanku Tambusai
+
+Navigation:
+- Home
+- About
+- Current Issue
+- Archives
+- Editorial Team
+- Author Guidelines
+- Contact
+
+Add a clear search function.
+
+HOMEPAGE:
+
+Create a professional homepage with:
+
+1. Journal title and publisher.
+2. Short journal description.
+3. Current Issue section.
+4. Current issue:
+   Volume 7, Number 3, October 2026
+5. Display all published articles from the uploaded official journal.
+6. Each article should show:
+   - Article title
+   - Authors
+   - Abstract preview
+   - Keywords if available
+   - Publication information
+   - Read Article button
+   - PDF button
+
+CURRENT ISSUE PAGE:
+
+Create a dedicated page for:
+
+Volume 7, Number 3
+October 2026
+
+Display all articles contained in the uploaded official journal.
+
+For every article, create a clean article card containing:
+
+- Article title
+- Author names
+- Page numbers if available
+- Abstract preview
+- Keywords if available
+- "Read Article"
+- "Download PDF"
+
+ARTICLE DETAIL PAGE:
+
+Each article must have its own detail page.
+
+Display:
+
+ARTICLE TITLE
+
+Authors
+
+Affiliations if available
+
+Abstract
+
+Keywords
+
+Article information:
+- Received
+- Revised
+- Accepted
+- Published
+- Volume
+- Issue
+- Pages
+- DOI if available
+
+Add:
+
+[READ FULL ARTICLE]
+
+[DOWNLOAD PDF]
+
+The PDF button must link to the correct official PDF/article file from the uploaded files.
+
+Do NOT create fake DOI numbers.
+
+ARCHIVES:
+
+Create a professional Archives page.
+
+The current issue should appear first:
+
+2026
+Volume 7, Number 3 — October 2026
+
+Then create a structure that can easily accommodate previous and future issues.
+
+Use a clean issue-based layout:
+
+Volume 7
+- Number 3 — October 2026
+
+If previous issues are included in the uploaded files, add them using their actual information.
+
+Do not invent previous issues.
+
+SEARCH:
+
+Add a search function that can search:
+- article title
+- author
+- keyword
+
+SEARCH RESULTS should show:
+- title
+- authors
+- issue
+- abstract preview
+- Read Article button
+- PDF button
+
+ABOUT PAGE:
+
+Create an About page containing the actual journal/publisher information available in the uploaded official files.
+
+Publisher:
+
+Lembaga Penelitian dan Pengabdian Masyarakat
+Universitas Pahlawan Tuanku Tambusai
+
+Do not invent information that is not provided.
+
+EDITORIAL TEAM:
+
+Create an Editorial Team page.
+
+If the uploaded official journal contains editorial board information, extract and display the actual names, positions, and affiliations.
+
+Do not invent editorial board members.
+
+AUTHOR GUIDELINES:
+
+If author guidelines are available in the uploaded official files, display the actual information.
+
+If not available, create a simple placeholder stating:
+"Author guidelines will be provided by the journal."
+
+Do not invent detailed submission requirements.
+
+CONTACT:
+
+Create a Contact page using only official contact information found in the uploaded journal files.
+
+If no contact information is available, leave a clear placeholder rather than inventing an email or address.
+
+PDF HANDLING:
+
+The official journal/article PDFs are the most important part.
+
+Visitors should be able to click "Download PDF" and download the actual official PDF.
+
+Where appropriate, also provide a "Read PDF" or "View Article" option.
+
+Do not replace the official PDF with generated or fictional documents.
+
+IMPORTANT FILE STRUCTURE:
+
+Organize uploaded journal files logically so that future issues and articles can easily be added.
+
+Make it easy for me to add:
+- new volume
+- new issue
+- new article
+- new PDF
+
+in the future without rebuilding the entire website.
+
+SEO:
+
+Set the website metadata appropriately:
+
+Site title:
+Jurnal Kesehatan Tambusai
+
+Description:
+Jurnal Kesehatan Tambusai published by Lembaga Penelitian dan Pengabdian Masyarakat Universitas Pahlawan Tuanku Tambusai.
+
+Use proper semantic HTML, article metadata, accessible headings, and SEO-friendly URLs.
+
+EXAMPLE URL STRUCTURE:
+
+/journal
+/current-issue
+/archives
+/issue/vol-7-no-3
+/article/[article-slug]
+
+Use clean URLs.
+
+VERY IMPORTANT:
+
+Remove all fictional content from the existing "The Meridian Review" website.
+
+Do not keep:
+- The Meridian Review
+- Autumn
+- "The work of noticing"
+- fictional article titles
+- fictional authors
+- fictional cover
+- fictional DOI
+- fictional journal information
+
+Replace everything with the real Jurnal Kesehatan Tambusai information from the uploaded official files.
+
+Keep the website visually polished and professional.
+
+Before finishing, check the entire website for:
+- broken links
+- incorrect journal names
+- fictional content
+- missing article PDFs
+- mobile/iPad responsiveness
+- navigation consistency
+- readable typography
+- correct Volume 7 Number 3 October 2026 information.
+
+Do not ask me to manually code anything unless absolutely necessary. Build and update the website directly.
+
+The last i want to the link like this: https://journal.universitaspahlawan.ac.id/index.php/jkt/article/view/60108 (sesuaiin sama journalku)
+
+The colour header is bluee
