@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Academic Journal"
+description = "A professional, responsive publication website for browsing published academic journal articles by current issue, archive, and article detail pages, including abstracts, metadata, keywords, and PDF access."
+version = "1.0.0"
+id = "artifacts/academic-journal"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22591
+
+[services.development]
+run = "pnpm --filter @workspace/academic-journal run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/academic-journal", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/academic-journal/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22591"
+BASE_PATH = "/"
