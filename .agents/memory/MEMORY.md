@@ -1,0 +1,1 @@
+- [Uploaded source attribution](uploaded-source-attribution.md) — visibly preserve a source file’s journal label when the user approves adding a mismatched publication.
