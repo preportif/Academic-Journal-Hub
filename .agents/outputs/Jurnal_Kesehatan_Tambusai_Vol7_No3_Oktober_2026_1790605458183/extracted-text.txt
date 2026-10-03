@@ -1,0 +1,751 @@
+
+--- PAGE 1 ---
+ANALISIS SISTEM PEMELIHARAAN ALAT KESEHATAN  DI
+PUSKESMAS KABUPATEN TANGGAMUS BERBASIS DATA APLIKASI
+SARANA, PRASARANA, DAN  ALAT KESEHATAN (ASPAK)
+Rizki Iskandar1, Achmad Lukman Hakim2
+Program Studi Magister Kesehatan Masyarakat, Fakultas Kesehatan, Universitas Indonesia Maju,
+Jakarta1,2
+Corresponding Author : rizkiiskndr01@gmail.com
+ABSTRAK
+Studi pendahuluan di Kabupaten Tanggamus menunjukkan bahwa pelaksanaan pemeliharaan alat
+kesehatan masih terkendala keterbatasan anggaran, keterbatasan sumber daya manusia, serta
+rendahnya konsistensi perawatan dan pencatatan pemeliharaan. Kondisi tersebut berdampak pada
+tidak mutakhirnya data pemeliharaan dan kalibrasi alat kesehatan dalam Aplikasi Sarana, Prasarana,
+dan Alat Kesehatan (ASPAK). Penelitian ini menggunakan pendekatan kualitatif dengan desain studi
+kasus pada empat Puskesmas yang dipilih secara purposive. Pengumpulan data dilakukan melalui
+wawancara mendalam, observasi lapangan, dan studi dokumentasi. Analisis data menggunakan model
+Miles dan Huberman. Hasil penelitian menunjukkan bahwa Puskesmas telah memiliki kebijakan,
+standar operasional prosedur, serta petugas pengelola sarana prasarana dan ASPAK. Namun,
+implementasi pemeliharaan belum berjalan optimal akibat keterbatasan SDM khusus, beban kerja
+rangkap, keterbatasan sarana pendukung, serta keterbatasan anggaran pemeliharaan dan kalibrasi yang
+belum mencukupi. Pemeliharaan preventif, korektif, dan kalibrasi telah dilaksanakan sesuai SOP,
+tetapi belum konsisten di seluruh unit pelayanan. Pencatatan dan pemutakhiran data ASPAK masih
+bersifat administratif sehingga belum sepenuhnya mencerminkan kondisi riil alat kesehatan.
+Kata kunci: alat kesehatan, pemeliharaan, ASPAK, sistem informasi, Puskesmas, Tanggamus
+ABSTRACT
+Preliminary studies in Tanggamus Regency indicate that the implementation of medical equipment
+maintenance remains constrained by limited funding, limited human resources, and low consistency in
+maintenance practices and documentation. These conditions result in outdated maintenance and
+calibration records within the Facility, Infrastructure, and Medical Equipment Application (ASPAK).
+This study employed a qualitative approach with a case study design involving four Puskesmas
+selected through purposive sampling. Data collection was conducted through in-depth interviews,
+field observations, and document reviews. Data analysis followed Miles and Huberman’s model. The
+findings indicate that Puskesmas have established policies, standard operating procedures, and
+designated personnel responsible for facilities management and ASPAK. However, implementation
+has not been optimal due to limited specialized human resources, multiple job assignments,
+inadequate supporting facilities, as well as limited budgets for maintenance and calibration activities.
+Preventive and corrective maintenance as well as calibration activities have been implemented
+according to standard procedures but remain inconsistent across service units. Documentation and
+ASPAK data updates are still administrative in nature and do not fully reflect the actual condition of
+medical equipment.
+Kata kunci: Kata kuci dalam bahasa Inggris minimal 3-5 kata yang diurut sesuai alfabet, ditulis dalam
+lowercase style, dipisahkan dengan koma dan di akhir kata tanpa menggunakan titik
+PREPOTIF Jurnal Kesehatan MasyarakatPage 1
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+Page 1
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+
+--- PAGE 2 ---
+PENDAHULUAN
+Pelayanan
+kesehatan
+yang
+bermutu
+sangat
+ditentukan
+oleh
+ketersediaan
+dan
+keberfungsian alat kesehatan. Di tingkat global, sekitar 70–90% alat kesehatan yang
+disumbangkan ke negara berpenghasilan rendah dan menengah tidak berfungsi optimal
+karena lemahnya sistem pemeliharaan serta kurangnya sumber daya manusia teknis (Piaggio,
+dkk., 2021). Di berbagai negara Asia seperti Nepal dan Ethiopia, lebih dari 30% alat
+kesehatan di fasilitas pelayanan publik dilaporkan tidak berfungsi dengan baik (Thapa, dkk.,
+2022).
+Kondisi serupa juga terjadi di Indonesia. Berdasarkan hasil penelitian yang dilakukan di
+Puskesmas Kabupaten Pasuruan oleh Supagat, dkk., (2023) tingkat pelaksanaan kalibrasi alat
+kesehatan masih sangat rendah. Studi tersebut melaporkan bahwa hanya 10,02% alat
+kesehatan yang telah dikalibrasi, dan sebagian besar belum masuk dalam perencanaan
+anggaran pemeliharaan. Data ini menggambarkan kesenjangan antara kebijakan pemerintah
+dengan implementasi di lapangan. Permenkes No. 54 Tahun 2015 telah mengatur tentang
+pengelolaan dan pemeliharaan alat kesehatan, namun implementasinya masih menghadapi
+berbagai kendala (Kemenkes, 2015).
+Sejumlah penelitian nasional juga menunjukkan bahwa manajemen pemeliharaan alat
+kesehatan di fasilitas pelayanan primer belum berjalan optimal. Suryani dan Rahayu (2022)
+mengemukakan bahwa keterbatasan sumber daya manusia teknis dan tidak adanya sistem
+pemantauan terintegrasi berdampak pada penurunan mutu pelayanan di Puskesmas. Hal
+serupa ditemukan oleh Arimbi (2022), hasil studi lapangan di Dinas Kesehatan Provinsi Jawa
+Timur, ditemukan bahwa banyak Puskesmas di Jawa Timur belum mencapai standar minimal
+60% dalam kelengkapan dan pemutakhiran data alat kesehatan pada sistem ASPAK. Laporan
+tersebut juga menunjukkan bahwa keterbatasan SDM teknis, kurangnya pelatihan, dan belum
+adanya SOP pemeliharaan yang terstruktur menjadi penyebab utama belum optimalnya
+manajemen alat kesehatan di fasilitas pelayanan kesehatan tingkat pertama.
+Di tingkat provinsi, implementasi ASPAK juga menunjukkan variasi antar daerah.
+Berdasarkan data ASPAK tahun 2025, Provinsi Lampung memiliki lebih dari 280 fasilitas
+pelayanan kesehatan tingkat pertama yang telah terdaftar dalam sistem, dengan tingkat
+keterisian data mencapai di atas 90%. Namun, sebagian besar fasilitas masih belum
+memperbarui data kondisi alat kesehatan secara berkala, sehingga validitas data terhadap
+kondisi aktual masih perlu diperkuat (Kemenkes, 2025).
+Sementara itu, di Kabupaten Tanggamus, dari total 26 Puskesmas yang terdiri atas
+Puskesmas Rawat Inap dan Non-Rawat Inap, pemanfaatan ASPAK sudah dipakai seluruh
+puskesmas, namun data aplikasi ASPAK menunjukkan bahwa lebih dari 90% alat kesehatan
+utama belum memiliki status kalibrasi atau riwayat pemeliharaan yang mutakhir. Kondisi ini
+menunjukkan meskipun ASPAK telah menjadi instrumen pelaporan, fungsinya sebagai dasar
+pengambilan keputusan pemeliharaan alat kesehatan belum dimanfaatkan secara optimal.
+Data ASPAK tingkat kabupaten juga menunjukkan adanya variasi tingkat kelengkapan dan
+kondisi alat antar Puskesmas, yang berpotensi memengaruhi mutu pelayanan kesehatan dasar
+di wilayah tersebut (Kemenkes, 2025).
+ASPAK
+merupakan
+inovasi
+digital
+Kementerian
+Kesehatan
+untuk
+mendukung
+transformasi sistem informasi kesehatan yang diatur dalam Peraturan Menteri Kesehatan
+Nomor 31 Tahun 2018. Melalui ASPAK, pemerintah berupaya melakukan pendataan,
+pemantauan, dan evaluasi kondisi sarana, prasarana, serta alat kesehatan di seluruh fasilitas
+pelayanan kesehatan (Kemenkes, 20218). Namun, di tingkat daerah implementasinya masih
+belum optimal. Penelitian Rahmat (2025) menunjukkan bahwa banyak Puskesmas mengalami
+kendala dalam kelengkapan dan pembaruan data, sehingga informasi alat kesehatan di
+ASPAK belum sepenuhnya akurat dan tidak selalu sesuai dengan kondisi aktual di lapangan.
+PREPOTIF Jurnal Kesehatan MasyarakatPage 2
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+Page 2
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+
+--- PAGE 3 ---
+Fenomena tersebut menunjukkan adanya kesenjangan antara kebijakan nasional dan
+praktik di lapangan, khususnya pada sistem pemeliharaan alat kesehatan di fasilitas pelayanan
+kesehatan tingkat pertama seperti Puskesmas. Kesenjangan ini dapat berdampak terhadap
+efektivitas pelayanan, efisiensi pembiayaan, serta kepercayaan masyarakat terhadap layanan
+kesehatan. Dalam konteks pembangunan kesehatan berkelanjutan, kondisi tersebut juga
+berpotensi menghambat pencapaian Tujuan Pembangunan Berkelanjutan (SDGs) khususnya
+target 3.8 mengenai cakupan kesehatan universal (WHO, 2022).
+Dengan mempertimbangkan kondisi tersebut, penelitian ini menjadi penting untuk
+dilakukan sebagai upaya memberikan gambaran menyeluruh mengenai sistem pemeliharaan
+alat kesehatan di Kabupaten Tanggamus. Analisis besrbasis data ASPAK diharapkan dapat
+mengidentifikasi kesenjangan antara ketersediaan, kondisi, serta pemanfaatan alat kesehatan,
+sekaligus menawarkan rekomendasi strategis untuk memperkuat kebijakan teknis di tingkat
+daerah.
+METODE
+Penelitian ini menggunakan pendekatan kualitatif dengan desain studi kasus. Pendekatan
+kualitatif dipilih karena peneliti ingin menggali informasi secara mendalam mengenai
+pelaksanaan sistem pemeliharaan alat kesehatan, keterbatasan pembiayaan pemeliharaan dari
+APBD maupun JKN, serta tingkat pemanfaatan Aplikasi Sarana, Prasarana, dan Alat
+Kesehatan (ASPAK) di Puskesmas Kabupaten Tanggamus.
+Penelitian ini menggunakan Teori Sistem Umum (General Systems Theory) yang
+dilaksanakan pada 4 Puskesmas di Kabupaten Tanggamus, meliputi 2 Puskesmas Rawat Inap
+dan 2 Non Rawat Inap, serta Dinas Kesehatan Kabupaten Tanggamus sebagai instansi
+pembina teknis. Waktu penelitian berlangsung dari bulan November hingga bulan Desember
+2025 meliputi tahap persiapan, pengumpulan data, analisis data, dan penyusunan laporan
+penelitian. Dari total 26 Puskesmas di Kabupaten Tanggamus, penelitian ini menetapkan 4
+Puskesmas sebagai lokasi penelitian melalui teknik purposive sampling.
+Untuk memastikan keabsahan data dalam penelitian ini, digunakan dua bentuk
+triangulasi, yaitu triangulasi sumber dan triangulasi metode. Triangulasi sumber dilakukan
+dengan membandingkan informasi yang diperoleh dari berbagai informan yang terlibat
+langsung dalam pemeliharaan alat kesehatan dan pengelolaan ASPAK, seperti Kepala
+Puskesmas, penanggung jawab sarana prasarana, pengelola ASPAK, staf teknis, serta petugas
+di
+Dinas
+Kesehatan
+Kabupaten
+Tanggamus.
+Triangulasi
+metode
+dilakukan
+dengan
+menggabungkan beberapa teknik pengumpulan data, yaitu wawancara mendalam, observasi
+lapangan, dan studi dokumentasi. Konsistensi informasi yang diperoleh melalui perbedaan
+sumber dan metode tersebut menjadi dasar untuk meningkatkan keandalan dan kredibilitas
+temuan penelitian.
+HASIL
+Input
+Berdasarkan hasil wawancara mendalam dengan Kepala Puskesmas, Bendahara Barang
+& Pengelola ASPAK di Puskesmas Pasar Simpang, Sanggi, Pulau Panggung, dan Rantau
+Tijang, serta Pengelola ASPAK Dinas Kesehatan Kabupaten, komponen input dalam
+pemeliharaan alat kesehatan berbasis ASPAK di Kabupaten Tanggamus menunjukkan adanya
+kesiapan struktural, namun belum sepenuhnya optimal secara fungsional. Komponen input
+meliputi sumber daya manusia (SDM), kebijakan dan SOP, sarana prasarana, serta
+PREPOTIF Jurnal Kesehatan MasyarakatPage 3
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+Page 3
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+
+--- PAGE 4 ---
+pembiayaan. Triangulasi sumber memperlihatkan adanya kesesuaian informasi antar level
+Puskesmas dan Dinas Kesehatan, meskipun ditemukan beberapa variasi implementasi.
+Pada aspek SDM, Kepala Puskesmas menyampaikan bahwa penunjukan petugas sarana
+prasarana dan pengelola ASPAK dilakukan melalui SK resmi dan mempertimbangkan
+kompetensi serta pembagian tugas.
+“Petugas sarana prasaraa /ASPAK ditunjuk melalui SK Kepala Puskesmas.” (Kepala
+Puskesmas Pulau Panggung)
+Pernyataan tersebut diperkuat oleh Bendahara Barang dan Pengelola ASPAK yang
+menyatakan
+bahwa
+mereka memiliki tanggung jawab langsung terhadap pendataan,
+inventarisasi, dan pemutakhiran data alat kesehatan dalam aplikasi.
+“Saya bertugas melakukan pencatatan inventaris dan memperbarui data pada aplikasi
+ASPAK.” (Pengelola ASPAK Sanggi)
+Dari sisi Dinas Kesehatan, pembinaan dilakukan melalui sosialisasi kebijakan,
+bimbingan teknis, serta supervisi rutin untuk memastikan kesesuaian data dengan kondisi riil
+alat di lapangan. Hal ini menunjukkan bahwa secara kebijakan, struktur pembinaan telah
+berjalan.
+Namun
+demikian,
+seluruh
+informan
+secara
+konsisten
+mengemukakan
+bahwa
+keterbatasan SDM dan beban kerja rangkap menjadi kendala utama. Hasil observasi
+menunjukkan bahwa di beberapa Puskesmas, satu orang petugas menangani lebih dari satu
+program, sehingga pengelolaan ASPAK belum dapat dilakukan secara maksimal dan
+berkelanjutan. Hal ini memperlihatkan adanya kesenjangan antara struktur formal dan
+kapasitas operasional.
+Pada aspek kebijakan dan SOP, seluruh Puskesmas telah memiliki SOP pemeliharaan
+alat kesehatan serta SOP pemutakhiran data ASPAK yang mengacu pada standar akreditasi
+dan regulasi kesehatan nasional. Kepala Puskesmas menekankan bahwa implementasi
+dilakukan melalui monitoring dan evaluasi internal. Sementara itu, Pengelola ASPAK
+mengakui bahwa meskipun SOP tersedia, pelaporan perubahan kondisi alat dari unit
+pelayanan belum selalu konsisten.
+Dinas Kesehatan mewajibkan pembaruan data secara berkala dan menjadikan data
+ASPAK
+sebagai
+dasar
+perencanaan
+pemeliharaan
+dan
+pengadaan.
+Hasil
+observasi
+menunjukkan bahwa dokumen SOP tersedia dalam bentuk tertulis dan terdokumentasi,
+namun pemahaman teknis tentang klasifikasi dan status alat masih bervariasi antar petugas.
+Pada aspek sarana prasarana, komputer dan dokumen inventaris (KIB) telah tersedia di
+seluruh Puskesmas. Akan tetapi, kendala utama adalah kualitas jaringan internet yang tidak
+stabil, terutama di wilayah tertentu.
+“Jika jaringan kurang bagus, menggunakan paket data pribadi.” (Pengelola ASPAK
+Pulau Panggung)
+Observasi juga menemukan bahwa ruang khusus pemeliharaan alat belum tersedia
+secara memadai di semua Puskesmas, serta alat uji sederhana untuk pemeriksaan teknis
+masih terbatas. Kondisi ini menunjukkan bahwa dukungan infrastruktur belum sepenuhnya
+mendukung optimalisasi sistem.
+Dari sisi pembiayaan, Kepala Puskesmas menjelaskan bahwa kebutuhan pemeliharaan
+diusulkan melalui RUK setiap tahun. Namun, baik Puskesmas maupun Dinas Kesehatan
+mengakui bahwa anggaran yang tersedia belum sepenuhnya mencukupi kebutuhan kalibrasi
+dan pemeliharaan berkala. Observasi terhadap beberapa alat menunjukkan adanya penundaan
+kalibrasi akibat keterbatasan anggaran.
+Proses
+Aspek proses menggambarkan bagaimana seluruh komponen input diimplementasikan
+dalam praktik pemeliharaan alat kesehatan berbasis ASPAK. Berdasarkan hasil triangulasi,
+PREPOTIF Jurnal Kesehatan MasyarakatPage 4
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+Page 4
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+
+--- PAGE 5 ---
+proses meliputi pemeliharaan preventif, pemeliharaan korektif, kalibrasi, inventarisasi fisik,
+serta pemutakhiran data dalam sistem.
+Kepala Puskesmas menyatakan bahwa pemeliharaan preventif dilakukan secara rutin
+sesuai SOP dan dicatat dalam logbook.
+“Pemeliharaan preventif dilakukan rutin sesuai SOP, dicatat dalam logbook.” (Kepala
+Puskesmas Rantau Tijang)
+Pernyataan ini diperkuat oleh Pengelola ASPAK yang menjelaskan bahwa inventarisasi
+dilakukan melalui pengecekan fisik alat, pencocokan dengan dokumen, kemudian dilakukan
+pembaruan data dalam aplikasi. Observasi menunjukkan adanya logbook pemeliharaan serta
+bukti inventarisasi fisik di masing-masing Puskesmas.
+Dalam pemeliharaan korektif, unit pelayanan melaporkan kerusakan alat kepada petugas
+sarpras, kemudian dilakukan pencatatan dan koordinasi dengan teknisi atau Dinas Kesehatan.
+Mekanisme ini menunjukkan adanya alur pelaporan yang sistematis. Namun, keterbatasan
+anggaran dan ketersediaan teknisi terkadang menyebabkan proses perbaikan tidak dapat
+dilakukan secara cepat.
+Dinas Kesehatan melakukan monitoring melalui dashboard ASPAK dan supervisi
+lapangan untuk memastikan kesesuaian data dengan kondisi riil alat. Jika ditemukan
+perbedaan, data dikembalikan kepada Puskesmas untuk diperbaiki. Hal ini menunjukkan
+adanya mekanisme validasi berjenjang.
+Kendala yang muncul secara konsisten adalah jaringan internet tidak stabil, kesulitan
+perubahan status alat di sistem, serta perbedaan data awal dengan kondisi fisik alat. Observasi
+menemukan adanya perbedaan kecil pada alat kecil yang sering berpindah unit, yang
+menyebabkan ketidaksesuaian sementara antara data sistem dan kondisi lapangan.
+Output
+Hasil dari pelaksanaan pemeliharaan alat kesehatan berbasis ASPAK di Kabupaten
+Tanggamus menunjukkan adanya perubahan yang cukup nyata dalam tata kelola alat
+kesehatan di tingkat Puskesmas. Berdasarkan wawancara dengan seluruh informan, output
+yang paling dirasakan adalah meningkatnya keteraturan pendataan, kemudahan dalam
+memantau kondisi alat, serta tersedianya dasar informasi yang lebih jelas untuk perencanaan
+pemeliharaan dan pengadaan.
+Kepala Puskesmas menilai bahwa secara umum kondisi alat kesehatan di unit mereka
+berada dalam kategori cukup baik dan masih mendukung pelayanan.
+“Kondisi alat kesehatan cukup baik dan masih bisa digunakan untuk menunjang
+pelayanan.” (Kepala Puskesmas Pasar Simpang)
+Pernyataan tersebut selaras dengan pengakuan Pengelola ASPAK yang merasakan bahwa
+dengan adanya pencatatan berbasis sistem, kerusakan alat dapat lebih cepat teridentifikasi.
+“Kondisi alat lebih terpantau dan kerusakan dapat ditangani lebih cepat.” (Pengelola
+ASPAK Pasar Simpang)
+Dari perspektif Dinas Kesehatan, kualitas data ASPAK di tingkat kabupaten dinilai sudah
+cukup baik dan terus mengalami perbaikan dari waktu ke waktu. Data tersebut tidak hanya
+menjadi arsip administratif, tetapi benar-benar dimanfaatkan sebagai dasar dalam menyusun
+rencana pengadaan, pemeliharaan, dan kalibrasi alat kesehatan di tingkat kabupaten. Hal ini
+menunjukkan bahwa output sistem tidak berhenti di level Puskesmas, tetapi berdampak pada
+perencanaan makro.
+Hasil observasi lapangan memperlihatkan bahwa sebagian besar alat yang terdaftar
+memang tersedia secara fisik dan dalam kondisi berfungsi. Namun demikian, ditemukan
+beberapa alat lama atau alat hibah yang riwayat pengadaannya kurang terdokumentasi dengan
+baik. Kondisi ini sejalan dengan pernyataan Dinas bahwa alat lama dan alat dengan riwayat
+perbaikan berulang sering kali menjadi sumber ketidaksesuaian data.
+PREPOTIF Jurnal Kesehatan MasyarakatPage 5
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+Page 5
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+
+--- PAGE 6 ---
+Selain itu, beberapa Pengelola ASPAK mengungkapkan bahwa alat berukuran kecil
+seperti gunting tindakan atau alat minor set lebih sulit dipantau karena sering berpindah unit.
+“Alat kecil paling sering bermasalah karena data awal belum lengkap.” (Pengelola
+ASPAK Sanggi)
+Temuan ini menunjukkan bahwa meskipun sistem telah membantu memperbaiki tata
+kelola, pengendalian internal terhadap alat kecil masih memerlukan penguatan.
+Feedback
+Aspek feedback dalam pengelolaan alat kesehatan berbasis ASPAK terlihat berjalan
+dalam bentuk evaluasi rutin, supervisi, serta tindak lanjut terhadap temuan ketidaksesuaian
+data. Proses ini tidak hanya bersifat administratif, tetapi juga menjadi sarana pembinaan dan
+perbaikan berkelanjutan.
+Kepala Puskesmas menyampaikan bahwa evaluasi dilakukan melalui rapat internal dan
+telaah laporan pemeliharaan secara berkala.
+“Evaluasi
+dilakukan
+melalui
+supervisi
+dan
+telaah
+laporan
+untuk
+perbaikan
+terus-menerus.” (Kepala Puskesmas Pasar Simpang)
+Di tingkat operasional, Pengelola ASPAK menyatakan bahwa apabila ditemukan
+kesalahan data atau ketidaksesuaian kondisi alat, perbaikan dilakukan segera dan dilaporkan
+kepada pimpinan.
+“Saya segera melakukan koreksi data dan melaporkan hasil perbaikan.” (Pengelola
+ASPAK Rantau Tijang)
+Dinas Kesehatan juga memberikan umpan balik melalui laporan hasil supervisi serta
+rekomendasi tertulis. Data yang tidak sesuai akan dikembalikan untuk diperbaiki, bahkan
+disertai pendampingan apabila diperlukan. Mekanisme ini menunjukkan adanya kontrol
+kualitas data secara berjenjang.
+Hasil observasi menunjukkan bahwa beberapa Puskesmas memiliki catatan hasil
+supervisi dan berita acara pembinaan dari Dinas. Dokumen tersebut berisi koreksi data,
+arahan teknis, serta pengingat untuk pembaruan berkala. Hal ini menguatkan bahwa
+mekanisme feedback memang berjalan, bukan sekadar formalitas.
+Namun demikian, para informan juga menyampaikan beberapa hal yang masih perlu
+diperbaiki. Salah satunya adalah istilah atau nama alat dalam aplikasi yang dianggap terlalu
+panjang dan kadang menggunakan istilah asing, sehingga membingungkan petugas.
+“Nama alat terlalu panjang dan kadang masih menggunakan bahasa asing sehingga
+membingungkan.” (Pengelola ASPAK Sanggi)
+Selain itu, rekomendasi yang muncul dari berbagai informan relatif seragam, yaitu
+perlunya peningkatan kapasitas SDM, penguatan supervisi rutin, perbaikan sarana IT, serta
+dukungan anggaran yang lebih memadai. Hal ini menunjukkan bahwa feedback tidak hanya
+berhenti pada koreksi data, tetapi juga menyentuh aspek sistemik.
+PEMBAHASAN
+Input
+Dalam rangka mendukung kelancaran sistem pemeliharaan alat kesehatan berbasis
+ASPAK di Puskesmas Kabupaten Tanggamus, beberapa komponen input penting telah
+diterapkan, yakni Sumber Daya Manusia (SDM), kebijakan dan standar operasional prosedur
+(SOP),
+sarana
+dan
+prasarana
+pendukung,
+serta
+pembiayaan.
+Meskipun
+demikian,
+masing-masing komponen input tersebut masih menghadapi tantangan yang memengaruhi
+efektivitas pemeliharaan alat kesehatan di lapangan.
+PREPOTIF Jurnal Kesehatan MasyarakatPage 6
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+Page 6
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+
+--- PAGE 7 ---
+Terkait SDM, hasil wawancara dengan Kepala Puskesmas menunjukkan bahwa seluruh
+Puskesmas telah menetapkan petugas yang bertanggung jawab terhadap pemeliharaan alat
+kesehatan melalui Surat Keputusan (SK) yang sah. Penetapan petugas dilakukan berdasarkan
+standar akreditasi dan pembagian tugas internal, dengan mempertimbangkan latar belakang
+pendidikan, pengalaman kerja, serta kemampuan administrasi. Petugas ASPAK/Bendahara
+Barang bertugas untuk mengelola pendataan inventaris, pencatatan kondisi alat, pelaporan
+kerusakan, serta pembaruan data ASPAK. Hasil triangulasi antara wawancara dan observasi
+menunjukkan bahwa pernyataan tersebut sejalan dengan kondisi lapangan, di mana peneliti
+menemukan adanya dokumen inventaris serta aktivitas pemutakhiran data alat di beberapa
+unit pelayanan, meskipun tidak selalu dilakukan secara konsisten. Namun, hasil triangulasi
+menunjukkan adanya kendala dalam konsistensi pelaksanaan tugas ini. Peneliti menemukan
+bahwa meskipun dokumen inventaris dan logbook pemeliharaan tersedia, konsistensi
+pengisian masih terbatas di beberapa unit pelayanan. Hal ini diperburuk dengan banyaknya
+petugas yang merangkap tugas lain, yang berdampak pada keterlambatan dokumentasi
+pemeliharaan. Hasil penelitian terdahulu oleh Risky Kusuma H dan Desmarini (2025)
+mengungkapkan bahwa manajemen pemeliharaan alat kesehatan seringkali tidak optimal
+karena keterbatasan SDM dan kendala sumber daya pendukung. peneliti berpendapat bahwa
+perbedaan implementasi antar Puskesmas sangat dipengaruhi oleh beban kerja petugas,
+pengawasan pimpinan, serta kedisiplinan unit pelayanan dalam pencatatan dan pelaporan,
+yang pada akhirnya memengaruhi konsistensi dalam pemutakhiran data ASPAK.
+Sementara itu, kebijakan dan SOP yang diterapkan di semua Puskesmas sudah merujuk
+pada standar akreditasi dan regulasi kesehatan. Hasil triangulasi antara wawancara dan
+observasi menunjukkan bahwa keberadaan SOP tersebut juga tampak dalam dokumen
+ceklis/logbook pemeliharaan yang ditemukan peneliti di beberapa unit pelayanan. Namun,
+hasil triangulasi menunjukkan adanya kesenjangan antara kebijakan yang ditetapkan dan
+pelaksanaannya di lapangan. Meskipun SOP terkait pemeliharaan alat dan pembaruan data
+ASPAK
+sudah
+ada,
+beberapa
+unit
+pelayanan
+belum
+sepenuhnya
+konsisten
+dalam
+penerapannya. Hasil penelitian terdahulu oleh Salomo Sijabat dkk. (2021) menegaskan
+bahwa pemeliharaan alat kesehatan yang baik hanya dapat tercapai jika SOP dijalankan
+secara konsisten, bukan sekadar sebagai dokumen formal. Analisis peneliti menunjukkan
+bahwa implementasi SOP yang tidak merata antar Puskesmas dipengaruhi oleh faktor-faktor
+seperti intensitas supervisi pimpinan, budaya disiplin dokumentasi, dan beban kerja unit
+pelayanan. Puskesmas dengan pengawasan yang lebih rutin, seperti Puskesmas Sanggi, lebih
+konsisten dalam menjalankan SOP dibandingkan Puskesmas yang pengawasannya belum
+optimal, seperti Puskesmas Pulau Panggung.
+Dari sisi sarana dan prasarana pendukung, meskipun setiap Puskesmas memiliki fasilitas
+yang memadai seperti komputer dan dokumen inventaris, masalah jaringan internet yang
+tidak stabil sering menghambat kelancaran proses input data ke dalam ASPAK. Hasil
+triangulasi wawancara dan observasi menguatkan temuan tersebut, karena peneliti memang
+melihat ketersediaan komputer dan dokumen inventaris di Puskesmas, namun pada saat yang
+sama ditemukan kendala teknis saat proses input data akibat jaringan internet yang tidak
+stabil. Puskesmas Pulau Panggung melaporkan bahwa mereka harus menggunakan paket data
+pribadi ketika jaringan internet tidak mendukung, yang jelas mengganggu kelancaran
+pembaruan data ASPAK. Hasil triangulasi menunjukkan bahwa meskipun sarana pendukung
+tersedia, kualitas jaringan yang buruk tetap menjadi kendala utama, terutama di Puskesmas
+yang terletak di daerah terpencil. Hal ini sejalan dengan hasil penelitian Widyawarman dan
+Fauzi (2025) yang mengingatkan bahwa ketersediaan dan pemeliharaan sarana yang memadai
+sangat penting untuk mendukung kelancaran proses pemeliharaan alat kesehatan, termasuk
+sistem informasi seperti ASPAK. Analisis peneliti mengungkapkan bahwa Puskesmas yang
+memiliki sarana pendukung yang lebih baik dan jaringan internet yang stabil, seperti
+PREPOTIF Jurnal Kesehatan MasyarakatPage 7
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+Page 7
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+
+--- PAGE 8 ---
+Puskesmas Pasar Simpang, cenderung lebih efisien dalam pembaruan data ASPAK dan
+pemeliharaan alat kesehatan secara keseluruhan.
+Dalam
+hal
+pembiayaan, meskipun setiap Puskesmas telah memiliki mekanisme
+perencanaan anggaran melalui RUK/RPK, keterbatasan anggaran masih menjadi kendala
+utama. Hasil triangulasi wawancara dan observasi menunjukkan bahwa keterbatasan
+anggaran ini tercermin di lapangan, di mana peneliti masih menemukan beberapa alat yang
+membutuhkan tindak lanjut pemeliharaan atau kalibrasi namun belum dapat ditangani segera
+karena keterbatasan biaya. Puskesmas Sanggi dan Puskesmas Rantau Tijang mengungkapkan
+bahwa anggaran yang tersedia tidak cukup untuk memenuhi semua kebutuhan pemeliharaan
+dan kalibrasi alat secara tepat waktu. Hasil triangulasi juga memperlihatkan bahwa meskipun
+anggaran sudah direncanakan dengan baik, masih banyak pemeliharaan yang tertunda karena
+keterbatasan dana. Hasil penelitian terdahulu oleh Risky Kusuma H dan Desmarini (2025)
+menekankan bahwa keterbatasan anggaran merupakan salah satu faktor utama yang
+menghambat
+optimalnya
+manajemen
+pemeliharaan
+alat
+kesehatan.
+Analisis
+peneliti
+menunjukkan bahwa Puskesmas yang dapat memprioritaskan alat kesehatan yang kritis dan
+memiliki anggaran yang lebih fleksibel, seperti Puskesmas Pasar Simpang, lebih mampu
+menjaga kesiapan alat, meskipun anggaran terbatas.
+Secara keseluruhan, meskipun ada upaya yang signifikan dalam pemeliharaan alat
+kesehatan berbasis ASPAK, tantangan terkait SDM, penerapan SOP, sarana pendukung, dan
+pembiayaan masih menjadi hambatan yang perlu diatasi. Secara umum, triangulasi
+wawancara dan observasi menunjukkan bahwa sistem pemeliharaan alat kesehatan berbasis
+ASPAK sudah berjalan, namun masih terdapat variasi konsistensi antar unit pelayanan dan
+antar Puskesmas. Berdasarkan analisis peneliti, Puskesmas dengan pengawasan yang lebih
+rutin, SDM yang lebih kompeten, dan sarana yang memadai, seperti Puskesmas Sanggi, lebih
+mampu
+menjalankan sistem pemeliharaan alat kesehatan secara efektif. Sebaliknya,
+Puskesmas yang menghadapi masalah seperti tugas rangkap, jaringan internet yang tidak
+stabil, dan keterbatasan anggaran, seperti Puskesmas Pulau Panggung, masih menghadapi
+kesulitan dalam menjaga kualitas pemeliharaan alat.
+Proses
+Proses pemeliharaan alat kesehatan di Puskesmas Kabupaten Tanggamus melibatkan
+beberapa tahapan penting, yaitu pemeliharaan preventif, pemeliharaan korektif, kalibrasi,
+pencatatan dan dokumentasi, serta pemanfaatan ASPAK dalam monitoring kondisi alat.
+Setiap Puskesmas melaksanakan proses ini sesuai dengan SOP yang telah ditetapkan,
+meskipun dalam pelaksanaannya masih ditemukan variasi konsistensi antar unit pelayanan.
+Pemeliharaan preventif dilakukan melalui pemeriksaan rutin sesuai SOP, seperti
+pembersihan alat, pengecekan fungsi, serta pengisian ceklis/logbook pemeliharaan. Kepala
+Puskesmas menyampaikan bahwa kegiatan ini dilakukan sebagai upaya menjaga alat tetap
+layak pakai dan mencegah kerusakan. Petugas ASPAK/Bendahara Barang juga menjelaskan
+bahwa pemeliharaan preventif menjadi bagian dari tugas pengawasan sarpras, namun sangat
+bergantung pada kepatuhan unit pelayanan dalam melakukan pencatatan dan pelaporan
+kondisi alat. Hasil triangulasi antara wawancara dan observasi menunjukkan bahwa
+pernyataan tersebut diperkuat oleh temuan lapangan, karena peneliti menemukan adanya
+dokumen ceklis atau logbook pemeliharaan di beberapa unit pelayanan, namun pengisiannya
+belum dilakukan secara merata di seluruh unit. Dengan demikian, pemeliharaan preventif
+belum berjalan konsisten pada semua Puskesmas. Pedoman Pemeliharaan dan Kalibrasi Alat
+Kesehatan Kementerian Kesehatan RI (2015) menegaskan bahwa pemeliharaan preventif
+harus dilakukan secara terjadwal dan rutin untuk menjaga alat tetap berfungsi baik. Hal ini
+sejalan dengan penelitian Handayani dkk. (2020) yang menjelaskan bahwa pemeliharaan
+preventif merupakan rangkaian inspeksi terjadwal untuk mencegah kegagalan alat. Peneliti
+PREPOTIF Jurnal Kesehatan MasyarakatPage 8
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+Page 8
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+
+--- PAGE 9 ---
+berasumsi
+bahwa
+perbedaan
+pelaksanaan
+pemeliharaan
+preventif
+antar
+Puskesmas
+dipengaruhi oleh kedisiplinan dokumentasi unit, beban kerja petugas, serta intensitas
+supervisi pimpinan.
+Selain itu, pemeliharaan korektif dilakukan ketika alat mengalami kerusakan melalui alur
+pelaporan
+dari
+unit pelayanan kepada petugas sarpras/ASPAK, kemudian dilakukan
+koordinasi
+tindak
+lanjut
+seperti
+perbaikan
+internal
+sederhana
+atau
+perbaikan
+oleh
+teknisi/pihak ketiga. Kepala Puskesmas menyampaikan bahwa perbaikan dilakukan sesuai
+tingkat urgensi dan kemampuan anggaran, sedangkan petugas ASPAK/Bendahara Barang
+menjelaskan bahwa proses korektif sering terkendala karena keterbatasan biaya perbaikan,
+proses administrasi, dan ketersediaan teknisi. Hasil triangulasi wawancara dan observasi
+menunjukkan bahwa laporan kerusakan alat memang ditemukan dalam dokumentasi unit,
+namun tindak lanjut perbaikan tidak selalu dapat dilakukan segera karena keterbatasan
+dukungan anggaran dan teknisi. Kondisi ini menunjukkan bahwa pemeliharaan korektif
+masih menghadapi hambatan struktural. Berdasarkan kerangka WHO Health System
+Building Blocks (2022), pemeliharaan alat kesehatan merupakan bagian penting dalam
+mendukung pelayanan kesehatan (service delivery). Peneliti berasumsi bahwa efektivitas
+pemeliharaan korektif dipengaruhi oleh kesiapan sistem pelaporan unit, koordinasi dengan
+teknisi, serta kemampuan pengalokasian anggaran untuk perbaikan alat yang bersifat
+mendesak.
+Proses kalibrasi alat kesehatan dilakukan melalui pendataan alat yang membutuhkan
+kalibrasi oleh petugas sarpras/ASPAK, kemudian diajukan ke Dinas Kesehatan untuk
+penjadwalan dan pelaksanaan. Petugas ASPAK/Bendahara Barang menyampaikan bahwa
+kendala utama kalibrasi adalah keterbatasan anggaran dan ketidaktepatan jadwal. Hasil
+triangulasi antara wawancara dan observasi menunjukkan bahwa sebagian alat memiliki label
+atau bukti kalibrasi, namun masih terdapat alat yang masa kalibrasinya perlu diperbarui atau
+belum sepenuhnya terpantau merata di semua unit pelayanan. Hal ini sesuai dengan
+Permenkes No. 54 Tahun 2015 bahwa kalibrasi diperlukan untuk memastikan akurasi dan
+keamanan
+alat.
+Peneliti
+menganalisis
+bahwa
+perbedaan
+pelaksanaan
+kalibrasi
+antar
+Puskesmas dipengaruhi oleh kemampuan perencanaan anggaran, intensitas koordinasi dengan
+Dinas Kesehatan, serta prioritas alat kritis pelayanan.
+Pencatatan dan dokumentasi pemeliharaan dilakukan melalui logbook/ceklis di unit
+pelayanan, kemudian direkap oleh petugas sarpras/ASPAK dan digunakan sebagai dasar
+pelaporan serta pemutakhiran data di ASPAK. Kepala Puskesmas menyampaikan bahwa
+pencatatan merupakan kewajiban untuk mendukung evaluasi dan perencanaan kebutuhan
+pemeliharaan. Hasil triangulasi wawancara dan observasi menunjukkan bahwa logbook
+pemeliharaan tersedia di beberapa unit, namun konsistensi pengisiannya masih berbeda antar
+unit, di mana sebagian unit belum rutin mencatat atau melaporkan perubahan kondisi alat
+secara tepat waktu. Kondisi ini sejalan dengan penelitian Putri dan Wulandari (2020) yang
+menyatakan bahwa dokumentasi merupakan komponen utama untuk menjamin keberlanjutan
+pemeliharaan. Peneliti berasumsi bahwa kualitas pencatatan dipengaruhi oleh budaya disiplin
+dokumentasi, beban kerja unit, serta pengawasan pimpinan.
+Pemanfaatan ASPAK dalam pemeliharaan alat kesehatan digunakan sebagai sistem
+pendataan sarpras dan alat kesehatan yang membantu monitoring kondisi alat serta
+perencanaan kebutuhan pengadaan atau perbaikan. Petugas ASPAK menyampaikan bahwa
+pembaruan data dilakukan berdasarkan inventarisasi fisik dan laporan unit pelayanan. Hasil
+triangulasi wawancara dan observasi menunjukkan bahwa aktivitas pencocokan data alat
+dengan kondisi fisik memang dilakukan, namun terdapat kendala keterlambatan pembaruan
+data akibat gangguan jaringan internet, keterbatasan waktu petugas, dan kendala teknis saat
+input. Kondisi ini sejalan dengan penelitian Rahmat dan Nafisa (2025) bahwa penggunaan
+ASPAK sering menghadapi hambatan kualitas data apabila pembaruan tidak dilakukan rutin.
+PREPOTIF Jurnal Kesehatan MasyarakatPage 9
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+Page 9
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+
+--- PAGE 10 ---
+Peneliti berasumsi bahwa pemanfaatan ASPAK akan lebih optimal apabila didukung
+kedisiplinan pelaporan unit, evaluasi berkala, dan penguatan sarana jaringan.
+Output
+Output utama dari sistem pemeliharaan alat kesehatan berbasis ASPAK adalah kesiapan
+alat
+kesehatan
+dalam
+mendukung
+mutu
+pelayanan
+Puskesmas.
+Kepala
+Puskesmas
+menyampaikan bahwa pemeliharaan membantu menjaga alat tetap berfungsi dan pelayanan
+dapat berjalan, sedangkan petugas ASPAK menyatakan bahwa pendataan melalui ASPAK
+memudahkan monitoring serta perencanaan perbaikan dan pengadaan. Hasil triangulasi
+wawancara dan observasi menunjukkan bahwa sebagian besar alat kesehatan masih
+digunakan untuk pelayanan dan terdapat upaya pencatatan pemeliharaan, meskipun pada
+beberapa alat tertentu masih ditemukan kebutuhan perbaikan atau kalibrasi yang belum
+sepenuhnya
+tertangani. Hal ini sesuai dengan penelitian Ulina dkk. (2025) bahwa
+pemeliharaan yang berjalan baik akan meningkatkan umur pakai alat dan mutu pelayanan.
+Peneliti menganalisis bahwa output kesiapan alat dipengaruhi oleh konsistensi preventif,
+ketepatan kalibrasi, dan kecepatan korektif, sehingga Puskesmas yang dokumentasinya lebih
+tertib cenderung memiliki kesiapan alat lebih baik.
+Feedback
+Evaluasi dan tindak lanjut pemeliharaan alat kesehatan dilakukan melalui rapat evaluasi
+internal, monitoring pimpinan, supervisi unit, serta koordinasi dengan Dinas Kesehatan,
+termasuk pembaruan data ASPAK dan pengusulan kebutuhan pemeliharaan. Kepala
+Puskesmas menyampaikan bahwa evaluasi dilakukan untuk mengetahui kondisi alat dan
+kebutuhan perbaikan, sedangkan petugas ASPAK menjelaskan bahwa tindak lanjut dilakukan
+melalui pencatatan, pengajuan perbaikan, dan pemutakhiran data alat. Hasil triangulasi
+wawancara dan observasi menunjukkan bahwa evaluasi memang dilakukan karena peneliti
+menemukan adanya dokumen pencatatan serta bukti koordinasi tindak lanjut, namun pada
+beberapa unit tindak lanjut belum sepenuhnya konsisten akibat keterbatasan SDM, sarana
+pendukung, dan anggaran. Hal ini sesuai dengan teori Donabedian (1980) bahwa feedback
+berfungsi sebagai mekanisme pengendalian untuk memperbaiki input dan proses agar output
+semakin baik. Peneliti menganalisis bahwa sistem feedback akan lebih efektif apabila
+dilakukan secara rutin dan terjadwal dengan pembagian tugas yang jelas serta penguatan
+monitoring pimpinan.
+KESIMPULAN
+Berdasarkan hasil wawancara dan observasi, sistem pemeliharaan alat kesehatan
+berbasis ASPAK pada empat Puskesmas di Kabupaten Tanggamus sudah berjalan melalui
+penunjukan petugas, penerapan SOP, pencatatan pemeliharaan, serta pemutakhiran data,
+namun pelaksanaannya belum optimal dan belum merata. Puskesmas Pasar Simpang
+menunjukkan
+pelaksanaan
+yang
+lebih
+terstruktur
+karena
+monitoring
+pimpinan
+dan
+dokumentasi lebih tertib, sedangkan Pulau Panggung masih terkendala jaringan internet
+sehingga pembaruan data ASPAK sering terlambat. Puskesmas Sanggi menghadapi hambatan
+utama berupa keterbatasan SDM kompeten dan tugas rangkap sehingga konsistensi
+pemeliharaan belum maksimal, sementara Rantau Tijang telah melakukan pemeliharaan dan
+pendataan namun masih perlu penguatan konsistensi dokumentasi dan pembaruan data.
+Keterbatasan anggaran pemeliharaan dan kalibrasi juga menjadi faktor penting yang
+menyebabkan keterlambatan perbaikan alat serta ketepatan jadwal kalibrasi pada seluruh
+Puskesmas. Oleh karena itu, setiap Puskesmas perlu memperkuat pembagian tugas petugas
+sarpras/ASPAK, meningkatkan supervisi dan kedisiplinan pencatatan, serta memastikan
+PREPOTIF Jurnal Kesehatan MasyarakatPage 10
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+Page 10
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+
+--- PAGE 11 ---
+pemutakhiran data sesuai kondisi riil alat. Selain itu, Pulau Panggung memerlukan penguatan
+jaringan, Sanggi dan Rantau Tijang membutuhkan peningkatan kompetensi petugas melalui
+pelatihan, Pasar Simpang perlu menjaga konsistensi monitoring internal, serta Dinas
+Kesehatan diharapkan memperkuat pendampingan teknis dan dukungan pembiayaan melalui
+JKN dan APBD agar pemeliharaan alat lebih tepat waktu dan berkelanjutan.
+UCAPAN TERIMAKASIH
+Penulis mengucapkan terima kasih kepada Dinas Kesehatan Kabupaten Tanggamus yang
+telah menyediakan data dan sebagai lokasi penelitian sehingga studi ini dapat dilaksanakan.
+DAFTAR PUSTAKA
+Arimbi, E. (2022). Peran Dinas Kesehatan Provinsi Jawa Timur dalam implementasi aplikasi
+Sarana,
+Prasarana,
+dan
+Alat
+Kesehatan
+(ASPAK)
+Puskesmas.
+Retrieved
+from
+[https://repository.unair.ac.id/132684](https://repository.unair.ac.id/132684)
+Donabedian, A. (1980). The definition of quality and approaches to its assessment (Vol. 1).
+Patient Safety Network.
+Handayani, I. N., Susana, E., & Kristianti, W. (2020). Pelatihan pemeliharaan preventif alat
+elektromedik di Puskesmas Kecamatan Kebayoran Lama. 4(1), 83–89.
+Kementerian Kesehatan Republik Indonesia. (2015). Peraturan Menteri Kesehatan Nomor 54
+tentang Pengujian dan Kalibrasi Alat Kesehatan.
+Kementerian Kesehatan Republik Indonesia. (2018). Peraturan Menteri Kesehatan Nomor 31
+tentang Aplikasi Sarana, Prasarana, dan Alat Kesehatan.
+Kementerian Kesehatan Republik Indonesia. (2025). Data rekapitulasi kondisi alat kesehatan
+Puskesmas
+Kabupaten
+Tanggamus.
+Retrieved
+from
+[https://aspak.kemkes.go.id](https://aspak.kemkes.go.id)
+Piaggio, D., Castaldo, R., Cinelli, M., Cinelli, S., Maccaro, A., & Pecchia, L. (2021). A
+framework for designing medical devices resilient to low-resource settings. Global
+Health, 17(1), 64.
+Putri, L. A., & WD. (2020). Manajemen pemeliharaan alat kesehatan di Puskesmas
+berdasarkan Permenkes No. 54 Tahun 2015. Jurnal Kesehatan Hesti Wira Sakti.
+Rahmat, N. (2025, May 29). Analisis peran dan implementasi ASPAK (Aplikasi Sarana,
+Prasarana & Alat Kesehatan) dalam mendukung perencanaan dan pengadaan alat
+kesehatan berbasis data di Indonesia.
+Risky Kusuma, H. D. (2025). Optimalisasi manajemen pemeliharaan alat kesehatan
+Puskesmas di Kabupaten Batanghari. Jurnal Inovasi Hasil Penelitian dan Pengembangan,
+5(3).
+Situmorang, H. (2021). Di Puskesmas Simpang Limun. 2(September), 428–432.
+Supangat, R., Lestari, E., & Chalidyanto, D. (2023). The influence of team work engagement
+on the performance of medical device calibration. Jurnal Aisyah: Jurnal Ilmu Kesehatan,
+8(3).
+Suryani, A. R. E. (2022). Pengaruh sistem pemeliharaan alat kesehatan terhadap mutu
+pelayanan di Puskesmas. Jurnal Administrasi Kesehatan Indonesia.
+Thapa, R., Yih, A., Chauhan, A., Poudel, S., Singh, S., Shrestha, S., et al. (2022). Effect of
+deploying biomedical equipment technician on the functionality of medical equipment in
+the government hospitals of rural Nepal. Human Resources for Health, 20(1), 1–9.
+[https://doi.org/10.1186/s12960-022-00719-y](https://doi.org/10.1186/s12960-022-00719
+-y)
+PREPOTIF Jurnal Kesehatan MasyarakatPage 11
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+Page 11
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+
+--- PAGE 12 ---
+Ulina, S., Istara, F., Dabukke, H., & Primasyukra, M. A. (2025). Analisa pemeliharaan
+preventif pada alat hemodialisa (Fresenius) di UPTD RS Datu Beru Takengon. Jurnal
+Mutiara Elektromedik, 9(1), 29–39.
+Widyawarman, D., & Fauzi, E. R. (2025). Optimalisasi layanan kesehatan di Puskesmas
+Kasihan I melalui kerjasama pemenuhan dan pemeliharaan alat kesehatan. Gotong
+Royong, 2(1), 14–23.
+World Health Organization. (2022). World health statistics: World health statistics indicators
+(pp. 4–7).
+PREPOTIF Jurnal Kesehatan MasyarakatPage 12
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026
+Page 12
+JURNAL KESEHATAN TAMBUSAI
+Vol. 7 No. 3 • Oktober 2026

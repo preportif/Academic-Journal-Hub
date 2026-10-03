@@ -1,8 +1,9 @@
 from pathlib import Path
+import sys
 import fitz
 
-source = Path("attached_assets/Jurnal_preportif_1790604351708.pdf")
-output_dir = Path(".agents/outputs/jurnal-preportif")
+source = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("attached_assets/Jurnal_preportif_1790604351708.pdf")
+output_dir = Path(".agents/outputs") / source.stem
 output_dir.mkdir(parents=True, exist_ok=True)
 
 document = fitz.open(source)
